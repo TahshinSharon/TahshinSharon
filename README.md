@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Backend Developer | Go |Python| GraphQL |RestApi| gRPC | MongoDB|PostgreSQL|</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Bangladesh;Building+Scalable+APIs;Learning+System+Design+%26+AWS;Go+%7C+GraphQL+%7C+gRPC+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+APIs;Learning+System+Design+%26+DevOps;Go+%7C+GraphQL+%7C+gRPC+%7C+MongoDB" />
 </p>
 
 ---
