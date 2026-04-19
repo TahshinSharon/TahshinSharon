@@ -17,7 +17,7 @@
 * ⚙️ Experienced in **Go, GraphQL,RestApi, gRPC, MongoDB,PostgreSQL**
 * 🧩 Working with microservices & distributed systems
 * ☁️ Learning **DevOps**
-* 🔍 Passionate about Solving RealWorld Problem,
+* 🔍 Passionate about Solving Real World Problems
 
 ---
 
