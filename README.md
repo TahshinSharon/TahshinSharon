@@ -66,7 +66,6 @@
 * GraphQL APIs + gRPC microservices
 * Efficient data aggregation & ranking logic using redis
 
-👉 *(Add your GitHub repo links here for strong impact)*
 
 ---
 
