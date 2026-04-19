@@ -60,11 +60,11 @@
 * Advanced filtering, pagination & MongoDB querying
 * Designed for performance and clean architecture
 
-### 🔹 Alorshekha.com a quiz platform
-
-* Backend system with leaderboard & ranking
-* GraphQL APIs + gRPC microservices
-* Efficient data aggregation & ranking logic using redis
+### 🔹 Alorshekha Quiz Platform
+- 🌐 [Visit Platform](https://alorshekha.com)
+- Backend system with leaderboard & ranking  
+- GraphQL APIs + gRPC microservices  
+- Efficient data aggregation & ranking logic using Redis  
 
 
 ---
