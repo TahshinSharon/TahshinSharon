@@ -61,7 +61,7 @@
 * Designed for performance and clean architecture
 
 ### 🔹 Alorshekha Quiz Platform
-- 🌐 [Visit Platform](https://alorshekha.com)
+- 🌐 [Visit Platform](https://alor-shikha.com/)
 - Backend system with leaderboard & ranking  
 - GraphQL APIs + gRPC microservices  
 - Efficient data aggregation & ranking logic using Redis  
