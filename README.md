@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Tahshin Sharon</h1>
+<h1 align="center">Hello, I'm Tahshin Sharon</h1>
 <h3 align="center">🚀 Backend Developer | Go |Python| GraphQL |RestApi| gRPC | MongoDB|PostgreSQL|</h3>
 
 <p align="center">
