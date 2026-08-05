@@ -16,7 +16,7 @@
 * 💻 Backend Developer focused on scalable API systems
 * ⚙️ Experienced in **Go, GraphQL,RestApi, gRPC, MongoDB,PostgreSQL**
 * 🧩 Working with microservices & distributed systems
-* ☁️ Learning **DevOps**
+* ☁️ Experienced in **DevOps,CI/CD,Docker,Kubernetes,Aws**
 * 🔍 Passionate about Solving Real World Problems
 
 ---
