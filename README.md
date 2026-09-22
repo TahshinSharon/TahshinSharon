@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Tahshin Sharon</h1>
 <h2 align="center">🚀 Software Engineer(Backend)| Go |Python| GraphQL |RestApi| gRPC | MongoDB|PostgreSQL|DevOps|CI/CD|Docker|Kubernetes
-  Terraform|AWS</h2>
+  |Terraform|AWS</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+APIs;Learning+System+Design+%26+DevOps;Go+%7C+GraphQL+%7C+gRPC+%7C+MongoDB" />
