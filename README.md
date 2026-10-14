@@ -45,37 +45,22 @@ highlights:
 <div align="center">
 
 ### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,python,c,cpp&theme=dark" />
 
 ### Backend & APIs
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<img src="https://skillicons.dev/icons?i=graphql,rabbitmq&theme=dark" />
+
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzI0OWI4MyIgZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptNS4xMTkgMTcuMjE2Yy0uNDU2LjMyOC0uOTkzLjQ5My0xLjYxMS40OTMtLjc1OCAwLTEuMzUtLjI2OC0xLjc3Ny0uODA0LS40MjctLjUzNy0uNjQtMS4yNTItLjY0LTIuMTQ3di0uNTU3SDguNTR2LjU1N2MwIC44OTUtLjIxNCAxLjYxLS42NDEgMi4xNDctLjQyNy41MzYtMS4wMTkuODA0LTEuNzc3LjgwNC0uNjE4IDAtMS4xNTUtLjE2NS0xLjYxMS0uNDkzLS40NTYtLjMyOS0uNjg0LS44MjktLjY4NC0xLjUwMSAwLS42NDMuMjE1LTEuMTI5LjY0Ny0xLjQ1OC40MzEtLjMyOS45Ni0uNDkzIDEuNTg2LS40OTMuNTg4IDAgMS4wODcuMTc0IDEuNDk4LjUyMS40MTEuMzQ4LjcwNS44MDQuODgzIDEuMzY4aDQuNTE4Yy4xNzgtLjU2NC40NzItMS4wMi44ODMtMS4zNjguNDExLS4zNDcuOTEtLjUyMSAxLjQ5OC0uNTIxLjYyNiAwIDEuMTU1LjE2NCAxLjU4Ni40OTMuNDMyLjMyOS42NDcuODE1LjY0NyAxLjQ1OCAwIC42NzItLjIyOCAxLjE3Mi0uNjg0IDEuNTAxek0xMiA2LjI0MWMtMS4xNzIgMC0yLjEyMi45NS0yLjEyMiAyLjEyMnMuOTUgMi4xMjIgMi4xMjIgMi4xMjIgMi4xMjItLjk1IDIuMTIyLTIuMTIyLS45NS0yLjEyMi0yLjEyMi0yLjEyMnoiLz48L3N2Zz4=&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch,dynamodb&theme=dark" />
+
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,grafana,linux,nginx,bash,git&theme=dark" />
 
 </div>
 
