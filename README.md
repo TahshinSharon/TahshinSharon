@@ -75,6 +75,19 @@ highlights:
 <tr>
 <td width="50%">
 
+**<img src="https://img.shields.io/badge/👤-Guest_User_Journey-00E676?style=flat-square" />**
+
+Full guest lifecycle service enabling unauthenticated users to experience content before signup
+
+`Go` `GraphQL` `REST` `MongoDB` `Redis`
+
+- Increased top-of-funnel sign-ups by **~35%**
+- Config-driven lifecycle: device identity, entitlements, rate limiting, phone verification & progress migration
+- Abuse prevention & guest-to-registered data merge handling **100K+ sessions/month**
+
+</td>
+<td width="50%">
+
 **<img src="https://img.shields.io/badge/📱-Dynamic_QR--Based_FutureBook-00ADD8?style=flat-square" />**
 
 Backend system linking physical textbooks to digital content via dynamic QR codes
@@ -86,6 +99,8 @@ Backend system linking physical textbooks to digital content via dynamic QR code
 - CMS-controlled QR lifecycle management
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **<img src="https://img.shields.io/badge/🎓-Alor--Shikha_Quiz_Platform-E10098?style=flat-square" />** [<img src="https://img.shields.io/badge/Live-alor--shikha.com-success?style=flat-square" />](https://alor-shikha.com/)
@@ -98,8 +113,6 @@ Weekly exams, scoring, leaderboard & progress tracking at scale
 - Redis-cached leaderboard & scoring APIs
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **<img src="https://img.shields.io/badge/📊-Focus_Hub_Analytics_Pipeline-4169E1?style=flat-square" />**
@@ -112,6 +125,8 @@ Real-time analytics streaming into pre-aggregated PostgreSQL
 - Idempotent, replay-safe workers
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **<img src="https://img.shields.io/badge/🔑-Partner--Campaign_API_Platform-FF6600?style=flat-square" />**
@@ -124,8 +139,6 @@ API-key platform for external partners with scope-restricted access
 - Per-resource scoping & access control
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **<img src="https://img.shields.io/badge/🤖-CQ_Formatter_(AI_Ingestion)-844FBA?style=flat-square" />**
@@ -138,6 +151,8 @@ Bulk CQ content ingestion from images & documents
 - Cut manual data-entry by **~70%**
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **<img src="https://img.shields.io/badge/⚙️-Production_Migrations-DC382D?style=flat-square" />**
