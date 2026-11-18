@@ -13,8 +13,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahshinsharon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahshinSharon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahshinsharon.github.io/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TahshinSharon)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TahshinSharon/)
 
 </div>
 
@@ -160,8 +160,21 @@ Bulk CQ content ingestion from images & documents
 Large-scale data migrations & automated cron jobs
 
 - Auth system: **6M records** migrated
-- Video URL provider: **2M docs** — zero data loss
+- Video URL provider: **2M docs** -- zero data loss
 - Rollback checkpoints & reconciliation jobs
+
+</td>
+<td width="50%">
+
+**<img src="https://img.shields.io/badge/📦-Internal_Tooling_&_Automation-9B59B6?style=flat-square" />**
+
+Developer productivity tools & workflow automation
+
+`Go` `Bash` `Docker`
+
+- CI/CD pipeline optimizations & build tooling
+- Automated health checks & alerting scripts
+- Internal CLI tools for common dev workflows
 
 </td>
 </tr>
@@ -213,6 +226,23 @@ Serverless AI learning assistant on AWS
 </tr>
 </table>
 
+<!-- EDUCATION -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://img.shields.io/badge/🎓-Education-00C2FF?style=flat-square" /> Education
+
+<table>
+<tr>
+<td>
+
+**B.Sc. in Computer Science & Engineering**
+Jagannath University (JnU), Dhaka
+`2020 - 2024`
+
+</td>
+</tr>
+</table>
+
 <!-- ACHIEVEMENTS -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -255,11 +285,11 @@ Serverless AI learning assistant on AWS
 
 <div align="center">
 
-```
-☁️  Cloud Infrastructure & DevOps  →  AWS, Kubernetes, Terraform
-🧠  System Design                  →  Distributed Architecture & Scalability
-⚡  Backend Engineering            →  Production-Grade Systems at Scale
-```
+| | Area | Focus |
+|:---:|:---|:---|
+| <img src="https://img.shields.io/badge/-Cloud_&_DevOps-FF9900?style=flat-square" /> | **Cloud Infrastructure** | AWS, Kubernetes, Terraform, IaC |
+| <img src="https://img.shields.io/badge/-System_Design-00C2FF?style=flat-square" /> | **Distributed Systems** | High-availability architecture & scalability patterns |
+| <img src="https://img.shields.io/badge/-Backend-00E676?style=flat-square" /> | **Production Engineering** | Observability, performance tuning & resilience |
 
 </div>
 
