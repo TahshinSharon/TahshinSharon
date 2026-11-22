@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=220&section=header&text=Md.%20Abu%20Tahshin&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20(Back-End)%20%40%20Shikho%20Technologies&descSize=18&descAlignY=55&descColor=00C2FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4F46E5,100:0d1117&height=220&section=header&text=Md.%20Abu%20Tahshin&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20(Back-End)%20%40%20Shikho%20Technologies&descSize=18&descAlignY=55&descColor=818CF8&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%A5+Building+Scalable+Backend+Systems;%E2%9A%A1+Go+%7C+GraphQL+%7C+gRPC+%7C+Kubernetes+%7C+AWS;%F0%9F%8E%AF+1000%2B+Problems+Solved+%7C+ICPC+Contestant" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%A5+Building+Scalable+Backend+Systems;%E2%9A%A1+Go+%7C+GraphQL+%7C+gRPC+%7C+Kubernetes+%7C+AWS;%F0%9F%8E%AF+1000%2B+Problems+Solved+%7C+ICPC+Contestant" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahshin-sharon-a1b48a17a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahshinsharon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahshinSharon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahshinsharon.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-818CF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahshinsharon.github.io/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TahshinSharon)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TahshinSharon/)
 
@@ -69,7 +69,7 @@ highlights:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-### <img src="https://img.shields.io/badge/🏢-Shikho_Technologies-00C2FF?style=flat-square" />
+### <img src="https://img.shields.io/badge/🏢-Shikho_Technologies-818CF8?style=flat-square" />
 
 <table>
 <tr>
@@ -246,7 +246,7 @@ Serverless AI learning assistant on AWS
 <!-- EDUCATION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://img.shields.io/badge/🎓-Education-00C2FF?style=flat-square" /> Education
+## <img src="https://img.shields.io/badge/🎓-Education-818CF8?style=flat-square" /> Education
 
 <table>
 <tr>
@@ -269,7 +269,7 @@ Jagannath University (JnU), Dhaka
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
-| <img src="https://img.shields.io/badge/1000+-problems-00C2FF?style=flat-square" /> | **Competitive Programming** | Solved on Codeforces, LeetCode & StopStalk |
+| <img src="https://img.shields.io/badge/1000+-problems-818CF8?style=flat-square" /> | **Competitive Programming** | Solved on Codeforces, LeetCode & StopStalk |
 | <img src="https://img.shields.io/badge/6th-Bangladesh-gold?style=flat-square" /> | **IEEEXtreme 17.0** | 1162nd globally out of 7091 teams |
 | <img src="https://img.shields.io/badge/ICPC-Regional-4285F4?style=flat-square" /> | **ICPC Asia Regional 2023** | Team JnuLazyPenguin |
 | <img src="https://img.shields.io/badge/🥈-1st_Runner_Up-silver?style=flat-square" /> | **JNU IUPC 2023** | 2nd out of 50 participants |
@@ -285,10 +285,10 @@ Jagannath University (JnU), Dhaka
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahshinSharon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TahshinSharon&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahshinSharon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TahshinSharon&theme=tokyonight&hide_border=true&background=0d1117&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8" />
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahshinSharon&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF&hide_border=true" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahshinSharon&bg_color=0d1117&color=818CF8&line=4F46E5&point=C4B5FD&area=true&area_color=818CF8&hide_border=true" />
 
 <!-- TROPHIES -->
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=TahshinSharon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" />
@@ -305,16 +305,16 @@ Jagannath University (JnU), Dhaka
 | | Area | Focus |
 |:---:|:---|:---|
 | <img src="https://img.shields.io/badge/-Cloud_&_DevOps-FF9900?style=flat-square" /> | **Cloud Infrastructure** | AWS, Kubernetes, Terraform, IaC |
-| <img src="https://img.shields.io/badge/-System_Design-00C2FF?style=flat-square" /> | **Distributed Systems** | High-availability architecture & scalability patterns |
+| <img src="https://img.shields.io/badge/-System_Design-818CF8?style=flat-square" /> | **Distributed Systems** | High-availability architecture & scalability patterns |
 | <img src="https://img.shields.io/badge/-Backend-00E676?style=flat-square" /> | **Production Engineering** | Observability, performance tuning & resilience |
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4F46E5,100:0d1117&height=120&section=footer" />
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TahshinSharon&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=TahshinSharon&style=for-the-badge&color=818CF8&label=PROFILE+VIEWS" />
 
 </div>
