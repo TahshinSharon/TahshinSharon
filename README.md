@@ -224,6 +224,23 @@ Serverless AI learning assistant on AWS
 
 </td>
 </tr>
+<tr>
+<td colspan="3">
+
+**<img src="https://img.shields.io/badge/🚀-DevConnect_Pro-6E40C9?style=flat-square" /> End-to-End DevOps Platform**
+
+10-service microservices social application with full CI/CD, Kubernetes orchestration, ArgoCD GitOps, and production-grade monitoring. Provisioned AWS infrastructure with Terraform, configured with Ansible, and deployed on K3s with Traefik ingress and cert-manager TLS.
+
+`Docker` `Kubernetes` `Terraform` `Ansible` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `Loki` `Trivy` `AWS EC2`
+
+- **10 containerized microservices** with Docker Compose and Kubernetes manifests
+- CI/CD with GitHub Actions: automated testing, Trivy scanning, OWASP Dep-Check, SonarQube analysis & DockerHub push
+- GitOps deployment via **ArgoCD** with automated sync
+- Full observability stack: **Prometheus** metrics, **Grafana** dashboards, **Loki** log aggregation
+- Infrastructure as Code: **Terraform** provisioning + **Ansible** configuration management
+
+</td>
+</tr>
 </table>
 
 <!-- EDUCATION -->
